@@ -3,11 +3,13 @@ About r-cards-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-cards-feedstock/blob/main/LICENSE.txt)
 
-Home: https://github.com/insightsengineering/cards, https://insightsengineering.github.io/cards/
+Home: https://insightsengineering.github.io/cards/
 
 Package license: Apache-2.0
 
 Summary: Construct CDISC (Clinical Data Interchange Standards Consortium) compliant Analysis Results Data objects. These objects are used and re-used to construct summary tables, visualizations, and written reports. The package also exports utilities for working with these objects and creating new Analysis Results Data objects.
+
+Development: https://github.com/insightsengineering/cards
 
 Current build status
 ====================
