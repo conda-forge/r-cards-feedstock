@@ -1,4 +1,4 @@
-{% set version = "0.8.0" %}
+{% set version = "0.8.1" %}
 {% set posix = 'm2-' if win else '' %}
 
 package:
@@ -9,7 +9,7 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/cards_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/cards/cards_{{ version }}.tar.gz
-  sha256: 076e31049913cb0335e873283742f59dd0e8eace9d2deaba109f20e418b0291b
+  sha256: 746c850c6a319cc3f6dd4d5800d90017d1d58a3b0713a0f19bc17b4d15f3dcf7
 
 build:
   number: 0
